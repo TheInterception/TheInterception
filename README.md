@@ -4,6 +4,7 @@
 </p>
 <div size='20px'> Hi! My name is Sachin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
+  <br><br>
 <div align="center">
 <img width="80%" height = "400px" src="https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg" alt="cover" />
 </div>

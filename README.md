@@ -9,15 +9,13 @@
 <div align="center">
 <img width="80%" height = "400px" src="https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg" alt="cover" />
 </div>
-
+<br><br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   <h2>About Me</h2><br>
 
 - 🔭 I’m currently working on Cyber-Security / Ethical Hacking, Vulnerability Analysis, Open Source Intelligence
 
 - 🌱 I’m currently learning Data Science, Computer Networking, System Administration, Cloud Computing & Virtualization 
-
-- 👯 I’m looking to collaborate on Projects, Technology Articles 
 
 - 💬 Talk to me about Python, Java, Linux Shell, Windows Batch, PHP, JavaScript, CSS, BootStrap, System Analysis, RDBMS 
 

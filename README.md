@@ -4,8 +4,7 @@
 </p>
 <div size='20px'> Hi! My name is Sachin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-  <h2><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-  <br><br>
+<br><br>
 <div align="center">
 <img width="100%" height = "500px" src="https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg" alt="cover" />
 </div>
@@ -33,7 +32,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/sachin-deepak-verlekar-1b94861a4/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/sachin-deepak-verlekar-1b94861a4/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'verlekarsachin.medium.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/TheInterception'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
